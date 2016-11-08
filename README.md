@@ -1,5 +1,5 @@
 # NAMF
-collection of Matlab functions for numerical analysis. (Numerical Analysis MATLAB Functions)
+Collection of Matlab functions for numerical analysis. (Numerical Analysis MATLAB Functions)
 
 La raccolta di funzioni si suddivide in:
   - Formule di quadratura: 
