@@ -1,0 +1,52 @@
+# MATLAB files
+*.asv
+*.m~
+*.mex*
+*.fig
+*.mat
+*.slx.autosave
+
+# MATLAB temporary files
+*.autosave
+
+# MATLAB Compiler
+*.prj
+mccExcludedFiles.log
+
+# MATLAB App Designer
+*.mlapp.bak
+
+# Simulink
+*.slx.original
+*.slxc
+slprj/
+
+# Code generation
+codegen/
+
+# Build artifacts
+*.o
+*.obj
+*.lib
+*.dll
+*.exe
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup files
+*~
+*.bak
+*.backup
